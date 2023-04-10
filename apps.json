@@ -1,4 +1,22 @@
 {
-	"to_install": [],
+	"to_install": [
+    "Brave.Brave",
+    "dbeaver.dbeaver",
+    "Bitvise.SSH.Client",
+    "Postman.Postman",
+    "Docker.DockerDesktop",
+    "Mozilla.Firefox",
+    "Google.Chrome",
+    "Spotify.Spotify",
+    "TeamViewer.TeamViewer",
+    "DucFabulous.UltraViewer",
+    "Neovim.Neovim",
+    "VideoLAN.VLC",
+    "WinSCP.WinSCP",
+    "7zip.7zip",
+    "Zoom.Zoom",
+    "JGraph.Draw",
+    "UniKey.UniKey"
+  ],
 	"to_uninstall": []
 }
